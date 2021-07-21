@@ -19,7 +19,7 @@ You can only search code using these code search qualifiers. Search qualifiers s
 
 {% data reusables.search.syntax_tips %}
 
-## Considerations for code search
+## for code search
 
 Due to the complexity of searching code, there are some restrictions on how searches are performed:
 
